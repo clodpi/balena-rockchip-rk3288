@@ -13,6 +13,3 @@
 [submodule "layers/poky"]
 	path = layers/poky
 	url = https://github.com/balena-os/poky
-[submodule "layers/meta-tinker-board"]
-	path = layers/meta-tinker-board
-	url = https://github.com/balena-os/meta-tinker-board.git

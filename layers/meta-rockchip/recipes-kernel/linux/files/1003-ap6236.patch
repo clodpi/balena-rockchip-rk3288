@@ -1,0 +1,10 @@
+--- a/include/linux/rfkill-wlan.h	2020-04-15 18:52:07.625020781 +0530
++++ b/include/linux/rfkill-wlan.h	2020-04-15 19:54:41.585278658 +0530
+@@ -49,6 +49,7 @@
+     WIFI_AP6181,
+     WIFI_AP6210,
+     WIFI_AP6212,
++    WIFI_AP6236,
+     WIFI_AP6234,
+     WIFI_AP6255,
+     WIFI_AP6330,

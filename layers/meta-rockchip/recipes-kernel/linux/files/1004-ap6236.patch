@@ -1,0 +1,13 @@
+--- a/net/rfkill/rfkill-wlan.c	2020-04-15 18:52:08.045019951 +0530
++++ b/net/rfkill/rfkill-wlan.c	2020-04-15 19:55:44.818303730 +0530
+@@ -106,7 +106,9 @@
+         type = WIFI_AP6210;
+     } else if (strcmp(wifi_chip_type_string, "ap6212") == 0) {
+         type = WIFI_AP6212;
+-    } else if (strcmp(wifi_chip_type_string, "rk901") == 0) {
++    }else if (strcmp(wifi_chip_type_string, "ap6236") == 0) {
++        type = WIFI_AP6236;
++    }else if (strcmp(wifi_chip_type_string, "rk901") == 0) {
+         type = WIFI_RK901;    
+     } else if (strcmp(wifi_chip_type_string, "rk903") == 0) {
+         type = WIFI_RK903;  
