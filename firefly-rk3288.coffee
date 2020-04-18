@@ -12,9 +12,9 @@ module.exports =
 	instructions: commonImg.instructions
 
 	gettingStartedLink:
-		windows: 'https://www.balena.io/docs/learn/getting-started/asus-tinker-board/nodejs/'
-		osx: 'https://www.balena.io/docs/learn/getting-started/asus-tinker-board/nodejs/'
-		linux: 'https://www.balena.io/docs/learn/getting-started/asus-tinker-board/nodejs/'
+		windows: 'https://www.balena.io/'
+		osx: 'https://www.balena.io/'
+		linux: 'https://www.balena.io/'
 
 	supportsBlink: true
 
