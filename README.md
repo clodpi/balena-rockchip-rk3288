@@ -1,4 +1,13 @@
-#  resin-asus-tinker-board repository
+#  resin-rockchip-rk3288 repository
+Supported SoC:
+
+RK3288
+
+Supported Boards:
+
+AIO 3288C
+FireFly RK3288
+
 
 ## Clone/Initialize the repository
 
