@@ -1,4 +1,16 @@
 - commits:
+    - subject: 'README: Update with balena name'
+      hash: 83fb61ede5eb87a552d913be386a4085696a0390
+      body: ''
+      footer:
+        Changelog-entry: 'README: Update with balena name'
+        changelog-entry: 'README: Update with balena name'
+        Signed-off-by: Alexandru Costache <alexandru@balena.io>
+        signed-off-by: Alexandru Costache <alexandru@balena.io>
+      author: Alexandru Costache
+  version: 2.38.3+rev8
+  date: 2020-05-14T15:48:45.284Z
+- commits:
     - subject: Update meta-rust to include 1.36
       hash: b6909ae54dea637a43656518494670f61243384b
       body: ''

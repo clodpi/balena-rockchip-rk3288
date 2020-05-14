@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.38.3+rev8
+## (2020-05-14)
+
+* README: Update with balena name [Alexandru Costache]
+
 # v2.38.3+rev7
 ## (2020-02-12)
 
