@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update balena-yocto-scripts to v1.7.0
+      hash: 141ecd448aba88f80d4f1f7f46b411eb4e952cce
+      body: ''
+      footer:
+        Changelog-entry: Update balena-yocto-scripts to v1.7.0
+        changelog-entry: Update balena-yocto-scripts to v1.7.0
+        Signed-off-by: Alexandru Costache <alexandru@balena.io>
+        signed-off-by: Alexandru Costache <alexandru@balena.io>
+      author: Alexandru Costache
+  version: 2.38.3+rev9
+  date: 2020-05-14T17:22:17.140Z
+- commits:
     - subject: 'README: Update with balena name'
       hash: 83fb61ede5eb87a552d913be386a4085696a0390
       body: ''
